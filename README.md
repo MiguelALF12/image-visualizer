@@ -1,4 +1,4 @@
-# image-visualizer
+# Image visualizer
 An image editor-visualizer using python and Tkinter.
 
 You can manage:
